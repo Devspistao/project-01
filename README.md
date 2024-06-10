@@ -1,4 +1,4 @@
-# Proyecto-01
+# Project-01
 
 Muestra de forma sencilla el uso combinado de VS Code+Github en la creación de un repositorio.
 
@@ -22,9 +22,9 @@ Verifique los cambios en su página web, realice los ajustes necesarios (+) y co
 
 ## Agradecimientos
 
-- [Plantillas Léame impresionantes] (<https://awesomeopensource.com/project/elangosundar/awesome-README-templates>)
-- [Léame impresionante] (<https://github.com/matiassingers/awesome-readme>)
-- [Cómo escribir un buen archivo Léame] (<https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project>)
+- Escribir (<https://awesomeopensource.com/project/elangosundar/awesome-README-templates>)
+- Ver (<https://github.com/matiassingers/awesome-readme>)
+- Escribir (<https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project>)
 
 ## Apéndice
 
@@ -40,7 +40,7 @@ Verifique los cambios en su página web, realice los ajustes necesarios (+) y co
 
 Imagen:
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+- [](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
 > Follow your heart.
 
@@ -67,16 +67,12 @@ Siga el "código de conducta" de este proyecto.
 
 ## Demostración
 
-[Video-Demo1][https://youtu.be/i_23KUAEtUM]
-[Video-Demo2](https://www.udemy.com/course/git-y-github-con-visual-studio-code-de-la-forma-mas-facil/learn/lecture/40600694#overview)
+VideoDemo1 (<https://youtu.be/i_23KUAEtUM>)
+Video-Demo2 (<https://www.udemy.com/course/git-y-github-con-visual-studio-code-de-la-forma-mas-facil/learn/lecture/40600694#overview>)
 
 ## Implementación
 
 Para implementar este proyecto, ejecute
-
-```golpecito
- implementación de ejecución npm
-```
 
 ## Variables de entorno
 
@@ -115,11 +111,9 @@ Si tiene algún comentario, comuníquese con nosotros en [def]
 
 Soy desarrollador en Ciernes...
 
-# ¡Hola, soy Devspistao! 👋
-
 ## 🔗 Enlaces
 
-[ubicacion][https://github.com/Devspistao/project-01]
+[def] (<https://github.com/Devspistao/project-01>)
 
 ## Otras secciones comunes del perfil de Github
 
