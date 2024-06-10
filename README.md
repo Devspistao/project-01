@@ -40,9 +40,9 @@ Verifique los cambios en su página web, realice los ajustes necesarios (+) y co
 
 Imagen:
 
-- [](https://pandao.github.io/editor.md/examples/images/4.jpg)
+- [](https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=600,h=600,fit=scale-down/cdn-ecommerce/store_01HH7J0NECZQKGC8H9ME3SSXTM%2Fassets%2F1702346274692-cfavatknva.png)
 
-> Follow your heart.
+> Avatar.
 
 ## Insignias
 
